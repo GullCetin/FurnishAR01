@@ -1,0 +1,21 @@
+﻿%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e634e96ebc6ca904b871c9fa9a50caba, type: 3}
+  m_Name: commode_1
+  m_EditorClassIdentifier: Assembly-CSharp::FurnishAR.Data.FurnitureItem
+  displayName: Konsol 1
+  category: 3
+  prefab: {fileID: 100000, guid: c03f933c52ef5244e9e4f6d939021060, type: 3}
+  previewIcon: {fileID: 21300000, guid: 8f0e3d90d5251674f91d39f5f84fee3b, type: 3}
+  placementScale: 1
+  rotationOffset: 0
+

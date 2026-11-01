@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27745a9604294b44ea233edf44ca7abd, type: 3}
+  m_Name: FurnitureCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::FurnishAR.Data.FurnitureCatalog
+  items:
+  - {fileID: 11400000, guid: 452ef25e7046194499a9e22e8b8d221f, type: 2}
+  - {fileID: 11400000, guid: c0d51d7c14e542a468f641f2ac856381, type: 2}
+  - {fileID: 11400000, guid: 8b4c88c875ee1494a91d4ea1e0f27682, type: 2}
+  - {fileID: 11400000, guid: 161cdbab357291c428b15fea7b42f9c8, type: 2}
+  - {fileID: 11400000, guid: 93ea69f43d24f934b800fef597918fa0, type: 2}
+  - {fileID: 11400000, guid: 92cb0d9aee699464a8249b6cf315949d, type: 2}
+  - {fileID: 11400000, guid: 7557f5dcb0e5365488bc44834d4a983c, type: 2}
+  - {fileID: 11400000, guid: 4a62f45a822e81f4286186cb166d246f, type: 2}
+  - {fileID: 11400000, guid: adb8b82b541378b449f01d286957626d, type: 2}
+  - {fileID: 11400000, guid: a1aa02792a589544aaf040486601b32a, type: 2}
+  - {fileID: 11400000, guid: 4d53579b7bbcf554d8c00e49b2f3a125, type: 2}
+  - {fileID: 11400000, guid: 58f4fc633bad9474dadbf4eecc73637e, type: 2}
+  - {fileID: 11400000, guid: 3376b645edf189d41827eaa6fbe4696a, type: 2}
+  - {fileID: 11400000, guid: 5dc4b97b5de940d44b555ca0b510e173, type: 2}
+  - {fileID: 11400000, guid: 4da661e01abed5f4dbe47ab486920950, type: 2}
